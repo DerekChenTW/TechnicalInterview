@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string-array name="users">
+        <item>Alex</item>
+        <item>Ben</item>
+        <item>Ken</item>
+        <item>David</item>
+        <item>Karen</item>
+        <item>Danny</item>
+        <item>Winnie</item>
+        <item>Luke</item>
+        <item>Jin</item>
+        <item>Robert</item>
+    </string-array>
+    <string-array name="items">
+        <item>apple</item>
+        <item>peach</item>
+        <item>tomato</item>
+        <item>peach</item>
+        <item>egg</item>
+        <item>Milk</item>
+        <item>Cheese</item>
+        <item>Pizza</item>
+        <item>Beer</item>
+        <item>Breed</item>
+        <item>Juice</item>
+    </string-array>
+</resources>
